@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "checksum": "",
+  "checksum": "6c445b4da38b47f104cabff7df10a389737df77ef020a9ab99bc7c7e221c7e0c",
   "download_url": "https://github.com/anil2ec4/muslim-daily-content/releases/latest/download/muslim_daily.db",
-  "size_bytes": 0,
-  "release_notes": "İlk sürüm"
+  "size_bytes": 2256896,
+  "release_notes": "Initial release - 883 hadiths, 110 Quran verses, 55 duas"
 }
