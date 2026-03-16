@@ -1,7 +1,24 @@
 {
-  "version": "1.0.0",
-  "checksum": "6c445b4da38b47f104cabff7df10a389737df77ef020a9ab99bc7c7e221c7e0c",
-  "download_url": "https://github.com/anil2ec4/muslim-daily-content/releases/latest/download/muslim_daily.db",
-  "size_bytes": 2256896,
-  "release_notes": "Initial release - 883 hadiths, 110 Quran verses, 55 duas"
+  "version": 1,
+  "updated_at": "2026-03-16T18:44:47.538Z",
+  "content": {
+    "hadiths": {
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths.json",
+      "checksum": "c9958a086bdc55b35db752f9161a3b317b6761fe206971f88076ce7a8734b0f1",
+      "count": 883
+    },
+    "quran_verses": {
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/quran_verses.json",
+      "checksum": "5f539cf5435ad61d6736e64deb6ae87aca5b2650b8c3a6c01782ab385041d027",
+      "count": 110
+    },
+    "duas": {
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/duas.json",
+      "checksum": "d054ba52a51faa731cfff8b6b743a9602984d35be378b46ec3b156d722176049",
+      "count": 55
+    }
+  }
 }
