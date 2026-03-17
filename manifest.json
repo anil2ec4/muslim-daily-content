@@ -1,23 +1,84 @@
 {
-  "version": 1,
-  "updated_at": "2026-03-16T18:44:47.538Z",
+  "version": 2,
+  "updated_at": "2026-03-17T17:41:27.337Z",
   "content": {
     "hadiths": {
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths.json",
-      "checksum": "c9958a086bdc55b35db752f9161a3b317b6761fe206971f88076ce7a8734b0f1",
-      "count": 883
+      "version": 2,
+      "type": "collection",
+      "total_count": 36512,
+      "collections": {
+        "abudawud": {
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/abudawud.json",
+          "checksum": "1202f9b8e6442fcebd98dff806c797c5fa00e84434b5a15472c4ce082765e7fd",
+          "count": 5274
+        },
+        "bukhari": {
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/bukhari.json",
+          "checksum": "14aadf26753839fcc96a6d8156c6804752b7ac43d9d05f437f01000e3e18dd80",
+          "count": 7589
+        },
+        "ibnmajah": {
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/ibnmajah.json",
+          "checksum": "a0ec522bf60e81a47a27c793cdd92c4837fabe624404c33b7141766cdde6f30a",
+          "count": 4343
+        },
+        "malik": {
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/malik.json",
+          "checksum": "e6243a6ecbda311d05821743e4a3dc04f1ade6edeedc865a3b5067d486b63edb",
+          "count": 1858
+        },
+        "muslim": {
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/muslim.json",
+          "checksum": "65d49a0b92afa5d8c67c950d82738dc4a4642c20ece34b4c8e91f0cf8fd133b2",
+          "count": 7563
+        },
+        "nasai": {
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/nasai.json",
+          "checksum": "b1ee0aa513876a5b183c99c77c81780b5192dfd24155c8b73aded9e7d9cbb5b9",
+          "count": 5765
+        },
+        "nawawi": {
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/nawawi.json",
+          "checksum": "cf94a15f10549b8122fdf3346f5b58a83e25a860060a6b0c3f87dff506bab7dc",
+          "count": 42
+        },
+        "qudsi": {
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/qudsi.json",
+          "checksum": "775ada026a06d2bd712c4f0616cde715fe87658844b20f6169295fc4f14603e4",
+          "count": 40
+        },
+        "tirmidhi": {
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/tirmidhi.json",
+          "checksum": "b4ec3d186974d45c1c846663ffecda15ee34aa426ce0e3f38f6c8267ceb0b439",
+          "count": 3998
+        },
+        "dehlawi": {
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/dehlawi.json",
+          "checksum": "acede4ba49fd52cc59ee852ada97549b71b76ba51d9e3f6a6a95ddb32df7604e",
+          "count": 40
+        }
+      }
     },
     "quran_verses": {
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/quran_verses.json",
-      "checksum": "5f539cf5435ad61d6736e64deb6ae87aca5b2650b8c3a6c01782ab385041d027",
-      "count": 110
+      "checksum": "9af840b01de8868206a71438bc1da7c544b3bbacddf324ecb592f3d0d13dc349",
+      "count": 6236
     },
     "duas": {
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/duas.json",
-      "checksum": "d054ba52a51faa731cfff8b6b743a9602984d35be378b46ec3b156d722176049",
+      "checksum": "6fa3f3e8f4efba0828116f1220f6846eaf983c72633a74c20b9450c8bb32df1f",
       "count": 55
     }
   }

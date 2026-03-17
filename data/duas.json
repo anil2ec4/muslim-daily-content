@@ -17,7 +17,12 @@
         "sabah",
         "uyanmak",
         "şükür"
-      ]
+      ],
+      "text_en": "All praise is to Allah who gave us life after death and to Him is the return.",
+      "text_fr": "Louange à Allah qui nous a redonné la vie après nous avoir fait mourir. C'est vers Lui que se fera la résurrection.",
+      "text_de": "Alles Lob gebührt Allah, der uns Leben gab, nachdem Er uns sterben ließ, und zu Ihm ist die Rückkehr.",
+      "text_nl": "Alle lof zij Allah die ons leven gaf nadat Hij ons deed sterven, en tot Hem is de terugkeer.",
+      "reference": "Buhari"
     },
     {
       "id": "dua_2",
@@ -36,7 +41,12 @@
         "sabah",
         "zikir",
         "şükür"
-      ]
+      ],
+      "text_en": "We have entered the morning and all sovereignty belongs to Allah. All praise is for Allah.",
+      "text_fr": "Nous voici au matin et toute la souveraineté appartient à Allah. Louange à Allah.",
+      "text_de": "Wir sind in den Morgen eingetreten und die gesamte Herrschaft gehört Allah. Alles Lob gebührt Allah.",
+      "text_nl": "Wij zijn de ochtend ingegaan en alle heerschappij behoort toe aan Allah. Alle lof zij Allah.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_3",
@@ -55,7 +65,12 @@
         "sabah",
         "istiğfar",
         "tövbe"
-      ]
+      ],
+      "text_en": "O Allah! You are my Lord. None has the right to be worshipped except You. You created me and I am Your servant.",
+      "text_fr": "Ô Allah! Tu es mon Seigneur. Nul n'a le droit d'être adoré sauf Toi. Tu m'as créé et je suis Ton serviteur.",
+      "text_de": "O Allah! Du bist mein Herr. Niemand hat das Recht angebetet zu werden außer Dir. Du hast mich erschaffen und ich bin Dein Diener.",
+      "text_nl": "O Allah! U bent mijn Heer. Niemand heeft het recht aanbeden te worden behalve U. U heeft mij geschapen en ik ben Uw dienaar.",
+      "reference": "Buhari"
     },
     {
       "id": "dua_4",
@@ -74,7 +89,12 @@
         "sabah",
         "koruma",
         "besmele"
-      ]
+      ],
+      "text_en": "In the name of Allah, with whose name nothing on earth or in heaven can cause harm. He is the All-Hearing, the All-Knowing.",
+      "text_fr": "Au nom d'Allah, avec le nom duquel rien sur terre ni dans le ciel ne peut nuire. Il est l'Audient, l'Omniscient.",
+      "text_de": "Im Namen Allahs, mit dessen Namen nichts auf der Erde noch im Himmel Schaden anrichten kann. Er ist der Allhörende, der Allwissende.",
+      "text_nl": "In de naam van Allah, met wiens naam niets op aarde noch in de hemel schade kan toebrengen. Hij is de Alhorende, de Alwetende.",
+      "reference": "Tirmizi"
     },
     {
       "id": "dua_5",
@@ -92,7 +112,12 @@
       "tags": [
         "sabah",
         "tevekkül"
-      ]
+      ],
+      "text_en": "Allah is sufficient for me. There is no deity except Him. I place my trust in Him, and He is the Lord of the Great Throne.",
+      "text_fr": "Allah me suffit. Il n'y a de divinité que Lui. Je place ma confiance en Lui, et Il est le Seigneur du Trône immense.",
+      "text_de": "Allah genügt mir. Es gibt keine Gottheit außer Ihm. Auf Ihn setze ich mein Vertrauen, und Er ist der Herr des gewaltigen Thrones.",
+      "text_nl": "Allah is mij voldoende. Er is geen god dan Hij. Op Hem stel ik mijn vertrouwen, en Hij is de Heer van de Grote Troon.",
+      "reference": "Ebu Davud"
     },
     {
       "id": "dua_6",
@@ -111,7 +136,12 @@
         "akşam",
         "zikir",
         "şükür"
-      ]
+      ],
+      "text_en": "We have entered the evening and all sovereignty belongs to Allah. All praise is for Allah.",
+      "text_fr": "Nous voici au soir et toute la souveraineté appartient à Allah. Louange à Allah.",
+      "text_de": "Wir sind in den Abend eingetreten und die gesamte Herrschaft gehört Allah. Alles Lob gebührt Allah.",
+      "text_nl": "Wij zijn de avond ingegaan en alle heerschappij behoort toe aan Allah. Alle lof zij Allah.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_7",
@@ -128,7 +158,12 @@
       "tags": [
         "akşam",
         "uyku"
-      ]
+      ],
+      "text_en": "O Allah! In Your name I die and I live.",
+      "text_fr": "Ô Allah! C'est en Ton nom que je meurs et que je vis.",
+      "text_de": "O Allah! In Deinem Namen sterbe ich und lebe ich.",
+      "text_nl": "O Allah! In Uw naam sterf ik en leef ik.",
+      "reference": "Buhari"
     },
     {
       "id": "dua_8",
@@ -147,7 +182,12 @@
         "akşam",
         "koruma",
         "sığınma"
-      ]
+      ],
+      "text_en": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+      "text_fr": "Je cherche refuge dans les paroles parfaites d'Allah contre le mal de ce qu'Il a créé.",
+      "text_de": "Ich suche Zuflucht bei den vollkommenen Worten Allahs vor dem Übel dessen, was Er erschaffen hat.",
+      "text_nl": "Ik zoek toevlucht bij de volmaakte woorden van Allah tegen het kwaad van wat Hij heeft geschapen.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_9",
@@ -166,7 +206,12 @@
         "akşam",
         "koruma",
         "ayetel-kürsi"
-      ]
+      ],
+      "text_en": "Allah! There is no deity except Him, the Ever-Living, the Sustainer of existence.",
+      "text_fr": "Allah! Nulle divinité autre que Lui, le Vivant, Celui qui subsiste par Lui-même.",
+      "text_de": "Allah! Es gibt keine Gottheit außer Ihm, dem Lebendigen, dem Beständigen.",
+      "text_nl": "Allah! Er is geen god dan Hij, de Levende, de Zelfbestaande.",
+      "reference": "Buhari"
     },
     {
       "id": "dua_10",
@@ -185,7 +230,12 @@
         "akşam",
         "şükür",
         "nimet"
-      ]
+      ],
+      "text_en": "O Allah! Whatever blessing I have this evening is from You alone.",
+      "text_fr": "Ô Allah! Toute grâce dont je bénéficie ce soir vient de Toi seul.",
+      "text_de": "O Allah! Jede Gnade, die ich an diesem Abend habe, kommt allein von Dir.",
+      "text_nl": "O Allah! Welke zegen ik ook heb deze avond, het komt alleen van U.",
+      "reference": "Ebu Davud"
     },
     {
       "id": "dua_11",
@@ -202,7 +252,12 @@
       "tags": [
         "yemek",
         "besmele"
-      ]
+      ],
+      "text_en": "In the name of Allah.",
+      "text_fr": "Au nom d'Allah.",
+      "text_de": "Im Namen Allahs.",
+      "text_nl": "In de naam van Allah.",
+      "reference": "Buhari"
     },
     {
       "id": "dua_12",
@@ -221,7 +276,12 @@
         "yemek",
         "şükür",
         "rızık"
-      ]
+      ],
+      "text_en": "All praise is to Allah who fed me this and provided it for me without any might or power from me.",
+      "text_fr": "Louange à Allah qui m'a nourri de ceci et me l'a accordé sans aucune force ni puissance de ma part.",
+      "text_de": "Alles Lob gebührt Allah, der mich damit gespeist und es mir gewährt hat ohne jegliche Kraft oder Macht von mir.",
+      "text_nl": "Alle lof zij Allah die mij dit te eten gaf en het mij schonk zonder enige macht of kracht van mij.",
+      "reference": "Tirmizi"
     },
     {
       "id": "dua_13",
@@ -240,7 +300,12 @@
         "oruç",
         "iftar",
         "ramazan"
-      ]
+      ],
+      "text_en": "The thirst has gone, the veins are moistened, and the reward is assured, if Allah wills.",
+      "text_fr": "La soif est partie, les veines sont humidifiées et la récompense est assurée, si Allah le veut.",
+      "text_de": "Der Durst ist vergangen, die Adern sind befeuchtet und die Belohnung ist gesichert, so Allah will.",
+      "text_nl": "De dorst is verdwenen, de aderen zijn bevochtigd en de beloning is verzekerd, als Allah het wil.",
+      "reference": "Ebu Davud"
     },
     {
       "id": "dua_14",
@@ -259,7 +324,12 @@
         "yemek",
         "misafir",
         "dua"
-      ]
+      ],
+      "text_en": "O Allah! Feed the one who fed me and give drink to the one who gave me drink.",
+      "text_fr": "Ô Allah! Nourris celui qui m'a nourri et abreuve celui qui m'a abreuvé.",
+      "text_de": "O Allah! Speise den, der mich gespeist hat, und gib dem zu trinken, der mir zu trinken gegeben hat.",
+      "text_nl": "O Allah! Voed degene die mij heeft gevoed en geef te drinken aan degene die mij te drinken gaf.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_15",
@@ -278,7 +348,12 @@
         "yemek",
         "bereket",
         "rızık"
-      ]
+      ],
+      "text_en": "O Allah! Bless us in what You have provided us and protect us from the punishment of the Fire.",
+      "text_fr": "Ô Allah! Bénis-nous dans ce que Tu nous as accordé et protège-nous du châtiment du Feu.",
+      "text_de": "O Allah! Segne uns in dem, was Du uns gegeben hast, und schütze uns vor der Strafe des Feuers.",
+      "text_nl": "O Allah! Zegen ons in wat U ons heeft geschonken en bescherm ons tegen de bestraffing van het Vuur.",
+      "reference": "İbn Mace"
     },
     {
       "id": "dua_16",
@@ -297,7 +372,12 @@
         "yolculuk",
         "binek",
         "şükür"
-      ]
+      ],
+      "text_en": "Glory be to the One who has subjected this to us, for we could never have done it on our own.",
+      "text_fr": "Gloire à Celui qui a mis ceci à notre service, car nous n'aurions jamais pu le faire par nous-mêmes.",
+      "text_de": "Gepriesen sei Der, der uns dies dienstbar gemacht hat, denn wir hätten es allein nie vermocht.",
+      "text_nl": "Glorie zij Degene die dit voor ons dienstbaar heeft gemaakt, want wij hadden dit nooit zelf kunnen doen.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_17",
@@ -316,7 +396,12 @@
         "yolculuk",
         "güvenlik",
         "dua"
-      ]
+      ],
+      "text_en": "O Allah! We ask You in this journey of ours for righteousness and piety.",
+      "text_fr": "Ô Allah! Nous Te demandons dans ce voyage la bonté et la piété.",
+      "text_de": "O Allah! Wir bitten Dich auf dieser unserer Reise um Rechtschaffenheit und Frömmigkeit.",
+      "text_nl": "O Allah! Wij vragen U op deze reis van ons om rechtschapenheid en vroomheid.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_18",
@@ -335,7 +420,12 @@
         "yolculuk",
         "dönüş",
         "şükür"
-      ]
+      ],
+      "text_en": "We are returning, repenting, worshipping, and praising our Lord.",
+      "text_fr": "Nous retournons, nous repentons, adorons et louons notre Seigneur.",
+      "text_de": "Wir kehren zurück, bereuen, beten an und preisen unseren Herrn.",
+      "text_nl": "Wij keren terug, berouwen, aanbidden en prijzen onze Heer.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_19",
@@ -354,7 +444,12 @@
         "yolculuk",
         "hayır",
         "dua"
-      ]
+      ],
+      "text_en": "O Allah! I ask You for the best entry and the best exit.",
+      "text_fr": "Ô Allah! Je Te demande la meilleure entrée et la meilleure sortie.",
+      "text_de": "O Allah! Ich bitte Dich um den besten Eingang und den besten Ausgang.",
+      "text_nl": "O Allah! Ik vraag U om de beste ingang en de beste uitgang.",
+      "reference": "Ebu Davud"
     },
     {
       "id": "dua_20",
@@ -373,7 +468,12 @@
         "namaz",
         "açılış",
         "tesbih"
-      ]
+      ],
+      "text_en": "Glory be to You, O Allah, and praise be to You. Blessed is Your name, exalted is Your majesty, and there is no deity other than You.",
+      "text_fr": "Gloire à Toi, ô Allah, et louange à Toi. Béni soit Ton nom, exaltée soit Ta majesté, et il n'y a de divinité autre que Toi.",
+      "text_de": "Gepriesen seist Du, o Allah, und Lob sei Dir. Gesegnet ist Dein Name, erhaben ist Deine Majestät, und es gibt keine Gottheit außer Dir.",
+      "text_nl": "Glorie zij U, o Allah, en lof zij U. Gezegend is Uw naam, verheven is Uw majesteit, en er is geen god dan U.",
+      "reference": "Ebu Davud"
     },
     {
       "id": "dua_21",
@@ -391,7 +491,12 @@
         "namaz",
         "rükû",
         "tesbih"
-      ]
+      ],
+      "text_en": "Glory be to my Lord, the Almighty.",
+      "text_fr": "Gloire à mon Seigneur, le Tout-Puissant.",
+      "text_de": "Gepriesen sei mein Herr, der Allmächtige.",
+      "text_nl": "Glorie zij mijn Heer, de Almachtige.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_22",
@@ -409,7 +514,12 @@
         "namaz",
         "secde",
         "tesbih"
-      ]
+      ],
+      "text_en": "Glory be to my Lord, the Most High.",
+      "text_fr": "Gloire à mon Seigneur, le Très-Haut.",
+      "text_de": "Gepriesen sei mein Herr, der Allerhöchste.",
+      "text_nl": "Glorie zij mijn Heer, de Allerhoogste.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_23",
@@ -428,7 +538,12 @@
         "namaz",
         "istiğfar",
         "mağfiret"
-      ]
+      ],
+      "text_en": "My Lord, forgive me. My Lord, forgive me.",
+      "text_fr": "Mon Seigneur, pardonne-moi. Mon Seigneur, pardonne-moi.",
+      "text_de": "Mein Herr, vergib mir. Mein Herr, vergib mir.",
+      "text_nl": "Mijn Heer, vergeef mij. Mijn Heer, vergeef mij.",
+      "reference": "Ebu Davud"
     },
     {
       "id": "dua_24",
@@ -446,7 +561,12 @@
       "tags": [
         "namaz",
         "tahiyyat"
-      ]
+      ],
+      "text_en": "All greetings, prayers, and good things are for Allah.",
+      "text_fr": "Toutes les salutations, les prières et les bonnes œuvres sont pour Allah.",
+      "text_de": "Alle Grüße, Gebete und guten Taten sind für Allah.",
+      "text_nl": "Alle begroetingen, gebeden en goede daden zijn voor Allah.",
+      "reference": "Buhari"
     },
     {
       "id": "dua_25",
@@ -464,7 +584,12 @@
       "tags": [
         "namaz",
         "istiğfar"
-      ]
+      ],
+      "text_en": "I seek forgiveness from Allah (three times).",
+      "text_fr": "Je demande pardon à Allah (trois fois).",
+      "text_de": "Ich bitte Allah um Vergebung (dreimal).",
+      "text_nl": "Ik vraag Allah om vergiffenis (drie keer).",
+      "reference": "Müslim"
     },
     {
       "id": "dua_26",
@@ -483,7 +608,12 @@
         "sıkıntı",
         "keder",
         "dua"
-      ]
+      ],
+      "text_en": "There is no deity except Allah, the Great, the Forbearing. There is no deity except Allah, Lord of the Great Throne.",
+      "text_fr": "Il n'y a de divinité qu'Allah, le Grand, le Clément. Il n'y a de divinité qu'Allah, Seigneur du Trône immense.",
+      "text_de": "Es gibt keine Gottheit außer Allah, dem Großen, dem Nachsichtigen. Es gibt keine Gottheit außer Allah, dem Herrn des gewaltigen Thrones.",
+      "text_nl": "Er is geen god dan Allah, de Grote, de Verdraagzame. Er is geen god dan Allah, de Heer van de Grote Troon.",
+      "reference": "Buhari"
     },
     {
       "id": "dua_27",
@@ -502,7 +632,12 @@
         "sıkıntı",
         "üzüntü",
         "sığınma"
-      ]
+      ],
+      "text_en": "O Allah! I seek refuge with You from worry and grief.",
+      "text_fr": "Ô Allah! Je cherche refuge auprès de Toi contre le souci et le chagrin.",
+      "text_de": "O Allah! Ich suche Zuflucht bei Dir vor Sorge und Kummer.",
+      "text_nl": "O Allah! Ik zoek toevlucht bij U tegen zorgen en verdriet.",
+      "reference": "Buhari"
     },
     {
       "id": "dua_28",
@@ -522,7 +657,12 @@
         "sıkıntı",
         "yardım",
         "rahmet"
-      ]
+      ],
+      "text_en": "O Ever-Living! O Sustainer! In Your mercy I seek relief.",
+      "text_fr": "Ô Vivant! Ô Subsistant! Par Ta miséricorde j'implore le secours.",
+      "text_de": "O Lebendiger! O Beständiger! In Deiner Barmherzigkeit suche ich Hilfe.",
+      "text_nl": "O Levende! O Zelfbestaande! In Uw barmhartigheid zoek ik hulp.",
+      "reference": "Tirmizi"
     },
     {
       "id": "dua_29",
@@ -542,7 +682,12 @@
         "borç",
         "helal",
         "rızık"
-      ]
+      ],
+      "text_en": "O Allah! Suffice me with what is lawful over what is forbidden and enrich me by Your bounty over all others.",
+      "text_fr": "Ô Allah! Accorde-moi ce qui est licite plutôt que ce qui est interdit et enrichis-moi par Ta grâce au-delà de tout autre.",
+      "text_de": "O Allah! Genüge mir mit dem Erlaubten über das Verbotene und bereichere mich durch Deine Großzügigkeit über alle anderen.",
+      "text_nl": "O Allah! Voorzie mij met het toegestane boven het verbodene en verrijk mij door Uw gunst boven allen.",
+      "reference": "Tirmizi"
     },
     {
       "id": "dua_30",
@@ -561,7 +706,12 @@
         "sıkıntı",
         "tövbe",
         "kurtuluş"
-      ]
+      ],
+      "text_en": "There is no deity except You. Glory be to You. Indeed, I have been among the wrongdoers.",
+      "text_fr": "Il n'y a de divinité que Toi. Gloire à Toi. J'ai été parmi les injustes.",
+      "text_de": "Es gibt keine Gottheit außer Dir. Gepriesen seist Du. Ich war wahrlich unter den Ungerechten.",
+      "text_nl": "Er is geen god dan U. Glorie zij U. Ik was waarlijk onder de onrechtplegers.",
+      "reference": "Tirmizi"
     },
     {
       "id": "dua_31",
@@ -579,7 +729,12 @@
       "tags": [
         "şükür",
         "hamd"
-      ]
+      ],
+      "text_en": "All praise is to Allah, Lord of all the worlds.",
+      "text_fr": "Louange à Allah, Seigneur de tous les mondes.",
+      "text_de": "Alles Lob gebührt Allah, dem Herrn aller Welten.",
+      "text_nl": "Alle lof zij Allah, de Heer van alle werelden.",
+      "reference": "Kuran"
     },
     {
       "id": "dua_32",
@@ -597,7 +752,12 @@
         "şükür",
         "nimet",
         "sabah"
-      ]
+      ],
+      "text_en": "O Allah! Whatever blessing I or any of Your creation receive is from You alone.",
+      "text_fr": "Ô Allah! Toute grâce dont je bénéficie ou dont bénéficie l'une de Tes créatures vient de Toi seul.",
+      "text_de": "O Allah! Jede Gnade, die ich oder irgendeines Deiner Geschöpfe empfange, kommt allein von Dir.",
+      "text_nl": "O Allah! Elke zegen die ik of enig schepsel van U ontvangt, komt alleen van U.",
+      "reference": "Ebu Davud"
     },
     {
       "id": "dua_33",
@@ -616,7 +776,12 @@
         "şükür",
         "müjde",
         "hamd"
-      ]
+      ],
+      "text_en": "All praise is to Allah by whose grace good deeds are completed.",
+      "text_fr": "Louange à Allah par la grâce duquel les bonnes œuvres s'accomplissent.",
+      "text_de": "Alles Lob gebührt Allah, durch dessen Gnade die guten Taten vollendet werden.",
+      "text_nl": "Alle lof zij Allah door wiens genade goede daden worden voltooid.",
+      "reference": "İbn Mace"
     },
     {
       "id": "dua_34",
@@ -635,7 +800,12 @@
         "şükür",
         "sağlık",
         "afiyet"
-      ]
+      ],
+      "text_en": "O Allah! Grant well-being to my body. O Allah! Grant well-being to my hearing. O Allah! Grant well-being to my sight.",
+      "text_fr": "Ô Allah! Accorde le bien-être à mon corps. Ô Allah! Accorde le bien-être à mon ouïe. Ô Allah! Accorde le bien-être à ma vue.",
+      "text_de": "O Allah! Gewähre meinem Körper Wohlbefinden. O Allah! Gewähre meinem Gehör Wohlbefinden. O Allah! Gewähre meinem Augenlicht Wohlbefinden.",
+      "text_nl": "O Allah! Schenk welzijn aan mijn lichaam. O Allah! Schenk welzijn aan mijn gehoor. O Allah! Schenk welzijn aan mijn gezichtsvermogen.",
+      "reference": "Ebu Davud"
     },
     {
       "id": "dua_35",
@@ -653,7 +823,12 @@
       "tags": [
         "istiğfar",
         "tövbe"
-      ]
+      ],
+      "text_en": "I seek forgiveness from Allah and I repent to Him.",
+      "text_fr": "Je demande pardon à Allah et je me repens vers Lui.",
+      "text_de": "Ich bitte Allah um Vergebung und bereue zu Ihm.",
+      "text_nl": "Ik vraag Allah om vergiffenis en ik berouw tot Hem.",
+      "reference": "Buhari"
     },
     {
       "id": "dua_36",
@@ -672,7 +847,12 @@
         "istiğfar",
         "af",
         "ramazan"
-      ]
+      ],
+      "text_en": "O Allah! You are the Pardoner. You love to pardon. So pardon me.",
+      "text_fr": "Ô Allah! Tu es le Pardonneur. Tu aimes pardonner. Alors pardonne-moi.",
+      "text_de": "O Allah! Du bist der Vergebende. Du liebst es zu vergeben. So vergib mir.",
+      "text_nl": "O Allah! U bent de Vergever. U houdt ervan te vergeven. Dus vergeef mij.",
+      "reference": "Tirmizi"
     },
     {
       "id": "dua_37",
@@ -691,7 +871,12 @@
         "istiğfar",
         "tövbe",
         "rahmet"
-      ]
+      ],
+      "text_en": "Our Lord! We have wronged ourselves. If You do not forgive us and have mercy on us, we will surely be among the losers.",
+      "text_fr": "Notre Seigneur! Nous nous sommes fait du tort à nous-mêmes. Si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous serons certainement du nombre des perdants.",
+      "text_de": "Unser Herr! Wir haben uns selbst Unrecht getan. Wenn Du uns nicht vergibst und Dich unser erbarmst, werden wir gewiss zu den Verlierern gehören.",
+      "text_nl": "Onze Heer! Wij hebben onszelf onrecht aangedaan. Als U ons niet vergeeft en ons geen barmhartigheid schenkt, zullen wij zeker tot de verliezers behoren.",
+      "reference": "Kuran"
     },
     {
       "id": "dua_38",
@@ -710,7 +895,12 @@
         "istiğfar",
         "tövbe",
         "mağfiret"
-      ]
+      ],
+      "text_en": "My Lord! Forgive me and accept my repentance. Indeed, You are the Accepting of Repentance, the Merciful.",
+      "text_fr": "Mon Seigneur! Pardonne-moi et accepte mon repentir. Tu es certes Celui qui accepte le repentir, le Miséricordieux.",
+      "text_de": "Mein Herr! Vergib mir und nimm meine Reue an. Du bist wahrlich der Reueannehmende, der Barmherzige.",
+      "text_nl": "Mijn Heer! Vergeef mij en aanvaard mijn berouw. U bent waarlijk de Aanvaarder van berouw, de Barmhartige.",
+      "reference": "Tirmizi"
     },
     {
       "id": "dua_39",
@@ -728,7 +918,12 @@
         "koruma",
         "nazar",
         "sığınma"
-      ]
+      ],
+      "text_en": "I seek refuge in the perfect words of Allah from every devil, every poisonous creature, and every evil eye.",
+      "text_fr": "Je cherche refuge dans les paroles parfaites d'Allah contre tout démon, toute créature venimeuse et tout mauvais œil.",
+      "text_de": "Ich suche Zuflucht bei den vollkommenen Worten Allahs vor jedem Teufel, jedem giftigen Geschöpf und jedem bösen Blick.",
+      "text_nl": "Ik zoek toevlucht bij de volmaakte woorden van Allah tegen elke duivel, elk giftig schepsel en elk boze oog.",
+      "reference": "Buhari"
     },
     {
       "id": "dua_40",
@@ -747,7 +942,12 @@
         "koruma",
         "tevekkül",
         "çıkış"
-      ]
+      ],
+      "text_en": "In the name of Allah. I place my trust in Allah. There is no power and no strength except with Allah.",
+      "text_fr": "Au nom d'Allah. Je place ma confiance en Allah. Il n'y a de force ni de puissance qu'en Allah.",
+      "text_de": "Im Namen Allahs. Ich setze mein Vertrauen auf Allah. Es gibt keine Macht und keine Kraft außer bei Allah.",
+      "text_nl": "In de naam van Allah. Ik stel mijn vertrouwen op Allah. Er is geen macht en geen kracht behalve bij Allah.",
+      "reference": "Tirmizi"
     },
     {
       "id": "dua_41",
@@ -766,7 +966,12 @@
         "koruma",
         "şeytan",
         "sığınma"
-      ]
+      ],
+      "text_en": "I seek refuge with Allah from the accursed Satan.",
+      "text_fr": "Je cherche refuge auprès d'Allah contre Satan le maudit.",
+      "text_de": "Ich suche Zuflucht bei Allah vor dem verfluchten Satan.",
+      "text_nl": "Ik zoek toevlucht bij Allah tegen de vervloekte Satan.",
+      "reference": "Kuran"
     },
     {
       "id": "dua_42",
@@ -784,7 +989,12 @@
         "koruma",
         "ahiret",
         "sığınma"
-      ]
+      ],
+      "text_en": "O Allah! I seek refuge with You from the punishment of the grave and the punishment of the Fire.",
+      "text_fr": "Ô Allah! Je cherche refuge auprès de Toi contre le châtiment de la tombe et le châtiment du Feu.",
+      "text_de": "O Allah! Ich suche Zuflucht bei Dir vor der Strafe des Grabes und der Strafe des Feuers.",
+      "text_nl": "O Allah! Ik zoek toevlucht bij U tegen de bestraffing van het graf en de bestraffing van het Vuur.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_43",
@@ -803,7 +1013,12 @@
         "bereket",
         "rızık",
         "ilim"
-      ]
+      ],
+      "text_en": "O Allah! I ask You for beneficial knowledge, good provision, and accepted deeds.",
+      "text_fr": "Ô Allah! Je Te demande une science utile, une subsistance bonne et des œuvres acceptées.",
+      "text_de": "O Allah! Ich bitte Dich um nützliches Wissen, gute Versorgung und angenommene Taten.",
+      "text_nl": "O Allah! Ik vraag U om nuttige kennis, goede voorziening en aanvaarde daden.",
+      "reference": "İbn Mace"
     },
     {
       "id": "dua_44",
@@ -822,7 +1037,12 @@
         "bereket",
         "sağlık",
         "kalp"
-      ]
+      ],
+      "text_en": "O Allah! Bless our hearing, our sight, and our hearts.",
+      "text_fr": "Ô Allah! Bénis notre ouïe, notre vue et nos cœurs.",
+      "text_de": "O Allah! Segne unser Gehör, unser Augenlicht und unsere Herzen.",
+      "text_nl": "O Allah! Zegen ons gehoor, ons gezichtsvermogen en onze harten.",
+      "reference": "Tirmizi"
     },
     {
       "id": "dua_45",
@@ -840,7 +1060,12 @@
         "bereket",
         "ev",
         "besmele"
-      ]
+      ],
+      "text_en": "O Allah! I ask You for the best entry and exit. In the name of Allah we enter, in the name of Allah we leave, and upon Allah our Lord we place our trust.",
+      "text_fr": "Ô Allah! Je Te demande la meilleure entrée et sortie. Au nom d'Allah nous entrons, au nom d'Allah nous sortons, et en Allah notre Seigneur nous plaçons notre confiance.",
+      "text_de": "O Allah! Ich bitte Dich um den besten Eingang und Ausgang. Im Namen Allahs treten wir ein, im Namen Allahs gehen wir hinaus, und auf Allah unseren Herrn setzen wir unser Vertrauen.",
+      "text_nl": "O Allah! Ik vraag U om de beste ingang en uitgang. In de naam van Allah gaan wij binnen, in de naam van Allah gaan wij naar buiten, en op Allah onze Heer stellen wij ons vertrouwen.",
+      "reference": "Ebu Davud"
     },
     {
       "id": "dua_46",
@@ -859,7 +1084,12 @@
         "aile",
         "anne-baba",
         "merhamet"
-      ]
+      ],
+      "text_en": "My Lord! Have mercy on them as they raised me when I was small.",
+      "text_fr": "Mon Seigneur! Fais-leur miséricorde comme ils m'ont élevé quand j'étais petit.",
+      "text_de": "Mein Herr! Erbarme Dich ihrer, wie sie mich aufgezogen haben, als ich klein war.",
+      "text_nl": "Mijn Heer! Ontferm U over hen zoals zij mij hebben grootgebracht toen ik klein was.",
+      "reference": "Kuran"
     },
     {
       "id": "dua_47",
@@ -879,7 +1109,12 @@
         "evlilik",
         "çocuk",
         "dua"
-      ]
+      ],
+      "text_en": "Our Lord! Grant us from our spouses and offspring comfort to our eyes.",
+      "text_fr": "Notre Seigneur! Accorde-nous de nos épouses et descendants la joie de nos yeux.",
+      "text_de": "Unser Herr! Schenke uns von unseren Ehepartnern und Nachkommen Freude für unsere Augen.",
+      "text_nl": "Onze Heer! Schenk ons van onze echtgenoten en nakomelingen verkoeling voor onze ogen.",
+      "reference": "Kuran"
     },
     {
       "id": "dua_48",
@@ -897,7 +1132,12 @@
         "aile",
         "çocuk",
         "nesil"
-      ]
+      ],
+      "text_en": "My Lord! Grant me from Your presence a pure offspring.",
+      "text_fr": "Mon Seigneur! Accorde-moi de Ta part une descendance pure.",
+      "text_de": "Mein Herr! Schenke mir aus Deiner Gegenwart reine Nachkommenschaft.",
+      "text_nl": "Mijn Heer! Schenk mij vanuit Uw nabijheid een rein nageslacht.",
+      "reference": "Kuran"
     },
     {
       "id": "dua_49",
@@ -916,7 +1156,12 @@
         "aile",
         "sabır",
         "güç"
-      ]
+      ],
+      "text_en": "Our Lord! Pour upon us patience and make our feet firm.",
+      "text_fr": "Notre Seigneur! Déverse sur nous la patience et affermis nos pas.",
+      "text_de": "Unser Herr! Gieße Geduld über uns aus und festige unsere Schritte.",
+      "text_nl": "Onze Heer! Stort geduld over ons uit en maak onze voeten standvastig.",
+      "reference": "Kuran"
     },
     {
       "id": "dua_50",
@@ -935,7 +1180,12 @@
         "hidayet",
         "doğruluk",
         "dua"
-      ]
+      ],
+      "text_en": "O Allah! Guide me and keep me on the straight path.",
+      "text_fr": "Ô Allah! Guide-moi et maintiens-moi sur le droit chemin.",
+      "text_de": "O Allah! Leite mich und halte mich auf dem geraden Weg.",
+      "text_nl": "O Allah! Leid mij en houd mij op het rechte pad.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_51",
@@ -954,7 +1204,12 @@
         "dua",
         "son",
         "hayır"
-      ]
+      ],
+      "text_en": "O Allah! Make the best of my life its end and the best of my deeds their conclusion.",
+      "text_fr": "Ô Allah! Fais que le meilleur de ma vie soit sa fin et le meilleur de mes œuvres leur conclusion.",
+      "text_de": "O Allah! Mache das Beste meines Lebens sein Ende und das Beste meiner Taten ihren Abschluss.",
+      "text_nl": "O Allah! Maak het beste van mijn leven het einde ervan en het beste van mijn daden hun afsluiting.",
+      "reference": "Taberani"
     },
     {
       "id": "dua_52",
@@ -973,7 +1228,12 @@
         "ilim",
         "bilgi",
         "dua"
-      ]
+      ],
+      "text_en": "My Lord! Increase me in knowledge.",
+      "text_fr": "Mon Seigneur! Augmente ma science.",
+      "text_de": "Mein Herr! Vermehre mein Wissen.",
+      "text_nl": "Mijn Heer! Vermeerder mijn kennis.",
+      "reference": "Kuran"
     },
     {
       "id": "dua_53",
@@ -992,7 +1252,12 @@
         "kalp",
         "temizlik",
         "nifak"
-      ]
+      ],
+      "text_en": "O Allah! Purify my heart from hypocrisy.",
+      "text_fr": "Ô Allah! Purifie mon cœur de l'hypocrisie.",
+      "text_de": "O Allah! Reinige mein Herz von Heuchelei.",
+      "text_nl": "O Allah! Zuiver mijn hart van hypocrisie.",
+      "reference": "Taberani"
     },
     {
       "id": "dua_54",
@@ -1011,7 +1276,12 @@
         "ahlak",
         "güzellik",
         "dua"
-      ]
+      ],
+      "text_en": "O Allah! Guide me to the best of character. None can guide to the best of it except You.",
+      "text_fr": "Ô Allah! Guide-moi vers le meilleur caractère. Nul ne peut guider vers le meilleur caractère sauf Toi.",
+      "text_de": "O Allah! Leite mich zum besten Charakter. Niemand kann zum besten Charakter leiten außer Dir.",
+      "text_nl": "O Allah! Leid mij naar het beste karakter. Niemand kan naar het beste karakter leiden behalve U.",
+      "reference": "Müslim"
     },
     {
       "id": "dua_55",
@@ -1030,7 +1300,12 @@
         "af",
         "afiyet",
         "dua"
-      ]
+      ],
+      "text_en": "O Allah! I ask You for pardon and well-being.",
+      "text_fr": "Ô Allah! Je Te demande le pardon et le bien-être.",
+      "text_de": "O Allah! Ich bitte Dich um Verzeihung und Wohlbefinden.",
+      "text_nl": "O Allah! Ik vraag U om vergeving en welzijn.",
+      "reference": "Tirmizi"
     }
   ]
 }
