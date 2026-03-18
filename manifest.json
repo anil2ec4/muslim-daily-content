@@ -5,7 +5,7 @@
     "hadiths": {
       "version": 4,
       "type": "collection",
-      "total_count": 36512,
+      "total_count": 36476,
       "collections": {
         "bukhari": {
           "version": 3,
@@ -53,13 +53,13 @@
         "muslim": {
           "version": 3,
           "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/muslim.json",
-          "checksum": "65d49a0b92afa5d8c67c950d82738dc4a4642c20ece34b4c8e91f0cf8fd133b2",
-          "count": 7563,
+          "checksum": "2321fe883190083afff6796f13c577516bc6c7470b42cbbc86efb526271874d5",
+          "count": 7527,
           "source": "Muslim",
           "sample_url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/samples/muslim_sample.json",
           "sample_checksum": "751a3b0cf77e42cddceb997bef761c8ee559e5b0ae4126849b2218143a56f367",
           "sample_count": 500,
-          "size_kb": 20961,
+          "size_kb": 21733,
           "lang_urls": {
             "ar": {
               "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/muslim_ar.json",
