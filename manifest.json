@@ -1,9 +1,9 @@
 {
-  "version": 3,
-  "updated_at": "2026-03-17T21:13:21.449087+00:00",
+  "version": 4,
+  "updated_at": "2026-03-18T00:00:14.893227+00:00",
   "content": {
     "hadiths": {
-      "version": 3,
+      "version": 4,
       "type": "collection",
       "total_count": 36512,
       "collections": {
@@ -16,7 +16,39 @@
           "sample_url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/samples/bukhari_sample.json",
           "sample_checksum": "1090704a928147e70ca2508efb72d4460956857a9fdd1026467ceb5b3ca9f7a1",
           "sample_count": 500,
-          "size_kb": 27435
+          "size_kb": 27435,
+          "lang_urls": {
+            "ar": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/bukhari_ar.json",
+              "checksum": "e09bec81ac4e941857933e2538777466c2cae34fddf35e1dc995c53c213bcfdd",
+              "size_kb": 9500
+            },
+            "tr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/bukhari_tr.json",
+              "checksum": "edaa7de87a6cbd15e5cb4e85576b6a742de3f506730e4c1576c16495ff7ab619",
+              "size_kb": 18774
+            },
+            "en": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/bukhari_en.json",
+              "checksum": "247c11707879aaa261c06a60a9e2cc047aff8ca4eec44f33a9dbf2e69700c5c7",
+              "size_kb": 13552
+            },
+            "fr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/bukhari_fr.json",
+              "checksum": "67680595d5fe57f89ae80f801f9d695a3bbb0ff494a8e5aaec8ca0d35735291f",
+              "size_kb": 13917
+            },
+            "de": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/bukhari_de.json",
+              "checksum": "1c24667720c23e002cdde117796b8b13b5d9f208225470d60a9337a29fde5609",
+              "size_kb": 9597
+            },
+            "nl": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/bukhari_nl.json",
+              "checksum": "f468f2afaca262a6725dbbe4a7de1da892667297c05957529926bee6028876e7",
+              "size_kb": 9597
+            }
+          }
         },
         "muslim": {
           "version": 3,
@@ -27,7 +59,39 @@
           "sample_url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/samples/muslim_sample.json",
           "sample_checksum": "751a3b0cf77e42cddceb997bef761c8ee559e5b0ae4126849b2218143a56f367",
           "sample_count": 500,
-          "size_kb": 20961
+          "size_kb": 20961,
+          "lang_urls": {
+            "ar": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/muslim_ar.json",
+              "checksum": "6f5859e37ccb3dfae36d0638e55316775102c350c7dd151aa7e37fdc0153eaf3",
+              "size_kb": 8396
+            },
+            "tr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/muslim_tr.json",
+              "checksum": "10a1257caefd235b4cedc3ffda07c4499dad8da567150d4015c0a81de492a34f",
+              "size_kb": 14323
+            },
+            "en": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/muslim_en.json",
+              "checksum": "62d2d2bbaf5abd482f6eab41d3e01d329b62350aa80f884c157f4536e0772b49",
+              "size_kb": 11570
+            },
+            "fr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/muslim_fr.json",
+              "checksum": "6fbb1a19219a4771e53de355072e40ea6bf4af6921c844b363aaa01b26812241",
+              "size_kb": 11668
+            },
+            "de": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/muslim_de.json",
+              "checksum": "81b315f4979d74263ecba61addae1a98eb6d1d3c4e9fcf9db7b16634dd32642e",
+              "size_kb": 8492
+            },
+            "nl": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/muslim_nl.json",
+              "checksum": "1502e6a75ad4f7737a661de87d712f3c726866f6854ea7eb8fc494c5c475619c",
+              "size_kb": 8492
+            }
+          }
         },
         "abudawud": {
           "version": 3,
@@ -38,7 +102,39 @@
           "sample_url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/samples/abudawud_sample.json",
           "sample_checksum": "fb4ee0c7fc6d5cedf6a2d26e1796d1a4c079e962460775e8dc1747ff8e0d246b",
           "sample_count": 50,
-          "size_kb": 13354
+          "size_kb": 13354,
+          "lang_urls": {
+            "ar": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/abudawud_ar.json",
+              "checksum": "fb2f3cf3b3220f4d571eb5f6bda5e48e4ab32cf6f0bb5984b401a4bb604a0831",
+              "size_kb": 5844
+            },
+            "tr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/abudawud_tr.json",
+              "checksum": "7609c2ad09967347070eb516ae3d5d7ffab7ed9e52eebcfe7802558f6aa2decc",
+              "size_kb": 8613
+            },
+            "en": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/abudawud_en.json",
+              "checksum": "5781bd8a6b596754bc6be5aeb941f0c82514d72240526241832a71a101644ca7",
+              "size_kb": 7993
+            },
+            "fr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/abudawud_fr.json",
+              "checksum": "3943f5ef583251c8db713ce17b767715b801a147f7e2b414e72609b015364f0a",
+              "size_kb": 8301
+            },
+            "de": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/abudawud_de.json",
+              "checksum": "94018c63f4706458a2817f8a6c03217dfc298e3ff4e2d8821d6e2dc0e94df609",
+              "size_kb": 5911
+            },
+            "nl": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/abudawud_nl.json",
+              "checksum": "674c47ae9f2c38463eb5d2142d0d215303ba27751b966b412dd84e513fbb43f8",
+              "size_kb": 5911
+            }
+          }
         },
         "tirmidhi": {
           "version": 3,
@@ -49,7 +145,39 @@
           "sample_url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/samples/tirmidhi_sample.json",
           "sample_checksum": "02e3d63372e0107fffe8786f517c2349a81d1b133c5122d3a48e0541aefe6c29",
           "sample_count": 50,
-          "size_kb": 10286
+          "size_kb": 10286,
+          "lang_urls": {
+            "ar": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/tirmidhi_ar.json",
+              "checksum": "04d8a9d15eb4b71b96931136ff2e29b583336e1dde5cb014f889e81d19a94de2",
+              "size_kb": 6016
+            },
+            "tr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/tirmidhi_tr.json",
+              "checksum": "71f5d5b917a56a91f6dd08f55a9ba8ee02eb2a7737eb4b82df0c55e7a199100f",
+              "size_kb": 8567
+            },
+            "en": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/tirmidhi_en.json",
+              "checksum": "8f1398d8a210ae583a75f6085f570af48ffa95f1eef0c722cae55e6826d0fbc3",
+              "size_kb": 7583
+            },
+            "fr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/tirmidhi_fr.json",
+              "checksum": "e3ce63f41291fca9a5006062ea04b1a8901926b8f83559d04731c58231e48d24",
+              "size_kb": 6066
+            },
+            "de": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/tirmidhi_de.json",
+              "checksum": "2428516cccb939d574e3adbd1dd4c9b88ac3272b3f6a00dd1912a8149439d06d",
+              "size_kb": 6066
+            },
+            "nl": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/tirmidhi_nl.json",
+              "checksum": "20fd8ce23a161ae546e87c1422b65af79c56cf77bc8853fae0ea18c97d26ffb0",
+              "size_kb": 6066
+            }
+          }
         },
         "nasai": {
           "version": 3,
@@ -60,7 +188,39 @@
           "sample_url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/samples/nasai_sample.json",
           "sample_checksum": "990c594e340904511d06b6c06deff99aa67908f0d8453d03208a695cfde4dfa8",
           "sample_count": 50,
-          "size_kb": 10603
+          "size_kb": 10603,
+          "lang_urls": {
+            "ar": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/nasai_ar.json",
+              "checksum": "12a3526e02bdc12617e736cc0043919f7220d61926bad1799c570128e11c81fb",
+              "size_kb": 5836
+            },
+            "tr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/nasai_tr.json",
+              "checksum": "818ffe82424e53268a2908081168e1bb65308c0c43d2bf3698b81f5ae1980958",
+              "size_kb": 6190
+            },
+            "en": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/nasai_en.json",
+              "checksum": "c6b1045d4b5a2d0eecb8f63bf25f2f3958504d6f5ca38f242bf9e17571f7ebcf",
+              "size_kb": 7903
+            },
+            "fr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/nasai_fr.json",
+              "checksum": "82d3c2d5aa2e6f8706e0590692b1735a95070110a9fb272083dbcc102a317f75",
+              "size_kb": 8035
+            },
+            "de": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/nasai_de.json",
+              "checksum": "105fbaefdfc9c950964e911a8122c5d272785209bc9c8098b4de19f7864e1fb4",
+              "size_kb": 5909
+            },
+            "nl": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/nasai_nl.json",
+              "checksum": "600a0d5ac5d4b3137712606b3d4a83439de7a779279cf38cb220e87ad32b4c57",
+              "size_kb": 5909
+            }
+          }
         },
         "ibnmajah": {
           "version": 3,
@@ -71,7 +231,39 @@
           "sample_url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/samples/ibnmajah_sample.json",
           "sample_checksum": "df1b6d32128b5f2cea8d6e66131c8a08026a9f008fa66aef2b8d0f8669fa5e53",
           "sample_count": 50,
-          "size_kb": 10823
+          "size_kb": 10823,
+          "lang_urls": {
+            "ar": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/ibnmajah_ar.json",
+              "checksum": "8232405b64afa1dd581ece6975b92db7dabf1bf8678ba06b51a8f213c14d4dc1",
+              "size_kb": 4361
+            },
+            "tr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/ibnmajah_tr.json",
+              "checksum": "8dc95630989f9c122e54e3c6727690aee94bdeee92b6a3b07f8869f69a6c41c0",
+              "size_kb": 7713
+            },
+            "en": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/ibnmajah_en.json",
+              "checksum": "6df0c2e5621433383cedcec9265eee32d386a261f67a744817c492bc2454ec1a",
+              "size_kb": 5835
+            },
+            "fr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/ibnmajah_fr.json",
+              "checksum": "553c1f27d61f0e8bb6c1dfb279328607d18e56bb1712cb6af35be79e24f75a01",
+              "size_kb": 5887
+            },
+            "de": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/ibnmajah_de.json",
+              "checksum": "48875ec1aa33e40383cd8ee71d509da7ce856bb07de361859cde790055f130e2",
+              "size_kb": 4416
+            },
+            "nl": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/ibnmajah_nl.json",
+              "checksum": "4669320636d8572126a4444835faa13fa83ab303bc87a3c71bcd42d84165e521",
+              "size_kb": 4416
+            }
+          }
         },
         "malik": {
           "version": 3,
@@ -82,7 +274,39 @@
           "sample_url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/samples/malik_sample.json",
           "sample_checksum": "be7e468e3d2a1a9e6ec39c6106c19da7513d107074d15ea7c3d51b22cdb6a8db",
           "sample_count": 50,
-          "size_kb": 4925
+          "size_kb": 4925,
+          "lang_urls": {
+            "ar": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/malik_ar.json",
+              "checksum": "de7f31edc0474897018676a3babf8799c099ce5d70a5139183a3f663bfb4ebe3",
+              "size_kb": 1981
+            },
+            "tr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/malik_tr.json",
+              "checksum": "3d1973c3f0c1d97a802b0f917eacfe1f5b720603361dbf97d63e40b42d0ae31a",
+              "size_kb": 2625
+            },
+            "en": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/malik_en.json",
+              "checksum": "922eb8cedb5a564fad092325d9583bf251bfe94986698cb0ab070afd320ddda3",
+              "size_kb": 3173
+            },
+            "fr": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/malik_fr.json",
+              "checksum": "f001581ad355cf531f9af32d6dae76d0046d0dcd6bad7b8cc67819d45ed561c4",
+              "size_kb": 3041
+            },
+            "de": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/malik_de.json",
+              "checksum": "fced385676988d67412c8823e7f8fad0ae292fc76c439b81c09ed6aac51abb32",
+              "size_kb": 2004
+            },
+            "nl": {
+              "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/lang/malik_nl.json",
+              "checksum": "3a7d28b130a80556a893f0a3a0b4be8035686d7d47223b4ea6bf453dfbd724a1",
+              "size_kb": 2004
+            }
+          }
         },
         "nawawi": {
           "version": 3,
