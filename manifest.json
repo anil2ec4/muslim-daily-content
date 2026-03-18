@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updated_at": "2026-03-18T00:00:14.893227+00:00",
+  "version": 5,
+  "updated_at": "2026-03-18T16:09:10.505Z",
   "content": {
     "hadiths": {
       "version": 4,
@@ -316,16 +316,16 @@
           "source": "Nawawi"
         },
         "qudsi": {
-          "version": 3,
+          "version": 4,
           "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/qudsi.json",
-          "checksum": "775ada026a06d2bd712c4f0616cde715fe87658844b20f6169295fc4f14603e4",
+          "checksum": "53992cf29bf16f70a63683f3b08aa7438a7484a39e566c8956fe491d50a1209e",
           "count": 40,
           "source": "Hadith Qudsi"
         },
         "dehlawi": {
-          "version": 3,
+          "version": 4,
           "url": "https://raw.githubusercontent.com/anil2ec4/muslim-daily-content/main/data/hadiths/dehlawi.json",
-          "checksum": "acede4ba49fd52cc59ee852ada97549b71b76ba51d9e3f6a6a95ddb32df7604e",
+          "checksum": "482348c8fef4426da7b1432f388516166ba514803cdda6ec5cfbf9c0257048ec",
           "count": 40,
           "source": "Dehlawi"
         }
